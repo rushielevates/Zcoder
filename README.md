@@ -1,7 +1,7 @@
-#💻 ZCoder – A Collaborative Coding Platform
+💻 ZCoder – A Collaborative Coding Platform
 ZCoder is a web-based coding platform built to help developers practice coding, collaborate in real time, and build projects. It supports live code execution, problem bookmarking, live chat room, and user authentication.
 
-#🚀 Features
+🚀 Features
 🧠 Real-time code editor with syntax highlighting
 💬 Live collaboration between multiple users
 🔐 User authentication (login/register)
